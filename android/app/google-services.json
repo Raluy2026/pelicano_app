@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782681116035",
+    "project_id": "pelicano-b9b70",
+    "storage_bucket": "pelicano-b9b70.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782681116035:android:4c85e8d8c6a0e129233ab6",
+        "android_client_info": {
+          "package_name": "com.pelicano_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoou1Zl8ubGVrHmBoZ63uyuYmanEDixX8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

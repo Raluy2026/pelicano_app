@@ -1,0 +1,29 @@
+{
+  "Bancos": [
+    {
+      "titulo": "Demanda contra banco X",
+      "estado": "En curso",
+      "descripcion": "Se reclama por cláusulas abusivas en contratos hipotecarios."
+    },
+    {
+      "titulo": "Caso comisiones ocultas banco Y",
+      "estado": "Resuelta",
+      "descripcion": "El banco fue condenado a devolver comisiones cobradas indebidamente."
+    }
+  ],
+  "Aseguradoras": [
+    {
+      "titulo": "Fraude aseguradora Z",
+      "estado": "En curso",
+      "descripcion": "Clientes afectados por negativa injustificada de cobertura."
+    }
+  ],
+  "Empresas Privadas": [],
+  "Entidades públicas": [],
+  "Partidos Políticos": [],
+  "Individuo Particular": [],
+  "ONGs": [],
+  "Telefonía y Comunicaciones": [],
+  "Alimentación": [],
+  "Suministros Básicos": []
+}
